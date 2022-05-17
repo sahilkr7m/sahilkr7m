@@ -11,20 +11,18 @@
 
 I am Sahil Kumar ,I am an Engineering Undergraduate aspiring to expertise in the field of tech and ready to take challenges that are worth taking, Confident in delivering the best and tackle every problem efficiently.
 
-<!--
-**sahilkr7m/sahilkr7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **sahilkr7m/sahilkr7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web and Machine Learning
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Development Projects and Focussing on Problem Solving.
+- 🌱 I’m currently learning Nodejs,ML and Cloud Fundamentals.
+- 💬 Ask me about Anything.
+- 📫 How to reach me: You can reach me on twitter and linkedin.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: People Write Codes.
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/sahilkr7m/Webscrappoi-NearbyPgs">
