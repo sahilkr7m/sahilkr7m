@@ -14,7 +14,7 @@ I am Sahil Kumar ,I am an Engineering Undergraduate aspiring to expertise in the
 
 <!-- **sahilkr7m/sahilkr7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Web Development Projects and Focussing on Problem Solving.
 - 🌱 I’m currently learning Nodejs,ML and Cloud Fundamentals.
