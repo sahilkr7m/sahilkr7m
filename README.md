@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything.
 - 📫 How to reach me: You can reach me on twitter and linkedin.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: People Write Codes.
+- ⚡ Fun fact: Coders Hardcode.
 
 ## 📌 Pinned Repositories
 
